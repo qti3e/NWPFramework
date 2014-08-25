@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db3a2a9a-ae4e-4427-a45f-91055de7b0e7" name="Default" comment="" />
+    <ignored path="HTML-Compiler-Class.PHP.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="HTML-Compiler-Class.PHP" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="HTML.Library.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NWPFramework/HTML.Library.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="3" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="7463">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Captcha.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NWPFramework/external/Captcha/Captcha.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="22" selection-start="560" selection-end="560" vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="1887">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Form.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NWPFramework/external/Form/Form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="16" selection-start="192" selection-end="192" vertical-scroll-proportion="0.1954023" vertical-offset="0" max-vertical-offset="696">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NWPFramework/external/Captcha/test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="1" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inctoIDE.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NWPFramework/inctoIDE.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="29" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="2567">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="External.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NWPFramework/External.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="33" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="289">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/NWPFramework/1.html" />
+        <option value="$PROJECT_DIR$/NWPFramework/NWPFramework/bin/Debug/Test.nwp" />
+        <option value="$PROJECT_DIR$/NWPFramework/index.php" />
+        <option value="$PROJECT_DIR$/NWPFramework/External.php" />
+        <option value="$PROJECT_DIR$/NWPFramework/external/database.php" />
+        <option value="$PROJECT_DIR$/NWPFramework/inctoIDE.php" />
+        <option value="$PROJECT_DIR$/nwp.xml" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/NWPFramework/external/Captcha/test.php" />
+        <option value="$PROJECT_DIR$/NWPFramework/HTML.Library.php" />
+        <option value="$PROJECT_DIR$/NWPFramework/external/Captcha/Captcha.php" />
+        <option value="$PROJECT_DIR$/NWPFramework/external/Form/Form.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML-Compiler-Class.PHP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML-Compiler-Class.PHP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML-Compiler-Class.PHP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NWPFramework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML-Compiler-Class.PHP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML-Compiler-Class.PHP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NWPFramework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="external" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Form" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML-Compiler-Class.PHP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML-Compiler-Class.PHP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NWPFramework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="external" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Captcha" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NWPIR.com" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\zzz\HTML-Compiler-Class.PHP\NWPFramework\external\Captcha" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db3a2a9a-ae4e-4427-a45f-91055de7b0e7" name="Default" comment="" />
+      <created>1408863367260</created>
+      <updated>1408863367260</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14634146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328877" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/NWPFramework/HTML.Library.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="3" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7463">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NWPFramework/external/Captcha/Captcha.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="22" selection-start="560" selection-end="560" vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="1887">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NWPFramework/external/Form/Form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="16" selection-start="192" selection-end="192" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NWPFramework/external/Captcha/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="1" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NWPFramework/inctoIDE.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="29" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="2567">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NWPFramework/External.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="33" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NWPFramework/HTML.Library.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="1" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7463">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NWPFramework/inctoIDE.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2567">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NWPFramework/External.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="33" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NWPFramework/HTML.Library.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="1" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7463">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NWPFramework/inctoIDE.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2567">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NWPFramework/External.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="33" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NWPFramework/HTML.Library.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="414" column="1" selection-start="6074" selection-end="6074" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7463">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NWPFramework/External.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="33" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NWPFramework/HTML.Library.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="1" selection-start="2280" selection-end="2280" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2771">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="39" selection-start="3320" selection-end="3320" vertical-scroll-proportion="0.023977432" vertical-offset="1139" max-vertical-offset="5355" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NWPFramework/inctoIDE.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="29" selection-start="304" selection-end="304" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="2567">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NWPFramework/External.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="33" selection-start="239" selection-end="239" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NWPFramework/external/Captcha/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="1" selection-start="314" selection-end="314" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="374">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NWPFramework/HTML.Library.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="3" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="7463">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NWPFramework/external/Captcha/Captcha.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="22" selection-start="560" selection-end="560" vertical-scroll-proportion="0.0" vertical-offset="1241" max-vertical-offset="1887">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NWPFramework/external/Form/Form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="16" selection-start="192" selection-end="192" vertical-scroll-proportion="0.1954023" vertical-offset="0" max-vertical-offset="696">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
